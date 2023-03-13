@@ -1,0 +1,9 @@
+.contMessItem{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.contMessItem img{
+   height: 20px;
+   width: 20px;
+}
